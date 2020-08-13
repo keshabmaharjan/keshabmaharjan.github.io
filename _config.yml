@@ -1,16 +1,14 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Keshab Maharjan
+twitter_username: keshabmaharjan
+name: Keshab Maharjan
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: http://keshabmaharjan.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/keshabmaharjan
 #Any buzzword skills you want to include
 skills:
  - Groovy
